@@ -82,19 +82,3 @@ Apply a fix if within your scope (ex: resetting a password or guiding the user t
 </p>
 <p>
 Once resolved, update the ticket with the solution details and mark it as closed. Notify the user through osTicket’s messaging system, explaining the fix and offering further assistance if needed. If applicable, ask for feedback to improve service quality.
-
-
-![Screenshot 2025-03-31 182938](https://github.com/user-attachments/assets/bde62226-1021-4eeb-b62f-e64c49019777)
-
-
-![assign os ticket arrow](https://github.com/user-attachments/assets/7f67a934-9703-49df-be54-706391c3aa84)
-
-![Screenshot 2025-03-31 184036](https://github.com/user-attachments/assets/c2cb8dba-53b0-41de-bcf3-d2b6bdcf7ab6)
-
-![Screenshot 2025-03-31 185019](https://github.com/user-attachments/assets/554d9c1b-e33e-4995-a687-562c57f9c0c9)
-
-
-![osticket resolve ticket](https://github.com/user-attachments/assets/b8394a5d-7de9-4b6c-91d3-b7398ce66d2a)
-
-
-
