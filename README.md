@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <p>
-<img src="https://github.com/user-attachments/assets/5ffa647d-ac03-4c4e-a283-e2a5335fab00" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/bde62226-1021-4eeb-b62f-e64c49019777" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Review the ticket details—such as the user’s description, priority, and any attachments—to understand the issue. Acknowledge the ticket by replying to the user with a brief message (e.g., “We’ve received your request and are investigating”) to set expectations.
@@ -45,7 +45,7 @@ Review the ticket details—such as the user’s description, priority, and any 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/7f67a934-9703-49df-be54-706391c3aa84" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Assign the ticket to the appropriate department or agent if it’s not already routed correctly. Update the ticket’s priority (ex: low, medium, high) based on urgency and impact, following your help desk’s guidelines. Add relevant tags or notes to streamline tracking and resolution.
@@ -56,7 +56,7 @@ Assign the ticket to the appropriate department or agent if it’s not already r
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/c2cb8dba-53b0-41de-bcf3-d2b6bdcf7ab6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Analyze the issue by checking system logs, replicating it if possible, or referencing knowledge base articles. If needed, request additional details from the user via the ticket’s reply feature. Document your findings in the ticket’s internal notes for clarity and team visibility.
@@ -67,7 +67,7 @@ Analyze the issue by checking system logs, replicating it if possible, or refere
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/554d9c1b-e33e-4995-a687-562c57f9c0c9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Apply a fix if within your scope (ex: resetting a password or guiding the user through steps). Test the solution to ensure it works. If the issue requires higher-level support, escalate the ticket to the appropriate team or technician, providing a detailed summary of your troubleshooting steps in the notes.
@@ -78,8 +78,23 @@ Apply a fix if within your scope (ex: resetting a password or guiding the user t
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b8394a5d-7de9-4b6c-91d3-b7398ce66d2a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once resolved, update the ticket with the solution details and mark it as closed. Notify the user through osTicket’s messaging system, explaining the fix and offering further assistance if needed. If applicable, ask for feedback to improve service quality.
+
+
+![Screenshot 2025-03-31 182938](https://github.com/user-attachments/assets/bde62226-1021-4eeb-b62f-e64c49019777)
+
+
+![assign os ticket arrow](https://github.com/user-attachments/assets/7f67a934-9703-49df-be54-706391c3aa84)
+
+![Screenshot 2025-03-31 184036](https://github.com/user-attachments/assets/c2cb8dba-53b0-41de-bcf3-d2b6bdcf7ab6)
+
+![Screenshot 2025-03-31 185019](https://github.com/user-attachments/assets/554d9c1b-e33e-4995-a687-562c57f9c0c9)
+
+
+![osticket resolve ticket](https://github.com/user-attachments/assets/b8394a5d-7de9-4b6c-91d3-b7398ce66d2a)
+
+
 
